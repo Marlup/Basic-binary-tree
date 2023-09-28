@@ -19,7 +19,7 @@ This Python class, `Tree`, provides a simple way to build binary trees and searc
 1. Clone this repository to your local machine:
 
  ```bash
- git clone https://github.com/yourusername/Basic-binary-tree.git
+ git clone https://github.com/Marlup/Basic-binary-tree.git
  ```
 
 You can then use the Tree class in your Python project by importing it.
@@ -65,5 +65,3 @@ Here's a basic example of how to use the Tree class to build a binary tree and s
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Please make sure to replace `yourusername` with your actual GitHub username and adjust the installation and usage instructions to match your repository structure and code.
